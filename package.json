@@ -1,0 +1,20 @@
+{
+  "name": "js211_bankaccount",
+  "version": "1.0.0",
+  "description": "JS211 Bank account assignment, using classes and custom tests.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "keywords": [
+    "'JavaScript",
+    "Classes'",
+    "'Class",
+    "Methods'"
+  ],
+  "author": "Michael H & Cesar C.",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
